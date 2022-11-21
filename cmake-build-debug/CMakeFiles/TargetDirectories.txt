@@ -1,0 +1,3 @@
+/home/phongvan/repo/tictactoeonline/cmake-build-debug/CMakeFiles/tictactoeonline.dir
+/home/phongvan/repo/tictactoeonline/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/phongvan/repo/tictactoeonline/cmake-build-debug/CMakeFiles/rebuild_cache.dir
